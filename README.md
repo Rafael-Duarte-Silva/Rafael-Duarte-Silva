@@ -1,5 +1,5 @@
-### Olá! 👋
-
+### Olá! 👋. Mais repositorios será posteriormente criados, por enquanto, estou com prequiça e ocupado.😫
+ Mas obrigado por acessar o meu perfil!!!
 <!--
 **Rafael-Duarte-Silva/Rafael-Duarte-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
