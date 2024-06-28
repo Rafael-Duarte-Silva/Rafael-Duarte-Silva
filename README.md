@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Duarte-Silva&show_icons=true" />
 </picture>
 
-### Most Languages
+### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Duarte-Silva&layout=compact)
 
